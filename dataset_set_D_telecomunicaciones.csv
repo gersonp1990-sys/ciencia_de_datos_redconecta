@@ -1,0 +1,201 @@
+fecha_registro;region;tipo_servicio;trafico_datos_gb;latencia_ms;incidencias_reportadas;tickets_soporte;tiempo_resolucion_hr;clientes_afectados;cumplimiento_sla
+2025-03-01 00:00:00;Centro;Empresas;457,8;21,3;0;27;22,4;144;No cumple
+2025-03-02 00:00:00;Norte;Internet Hogar;383,4;36,5;13;19;39,4;290;No cumple
+2025-03-03 00:00:00;Norte;Empresas;457,3;97,4;7;15;1,7;427;Cumple
+2025-03-04 00:00:00;Norte;Móvil;62,5;119,4;12;30;38,2;116;Cumple
+2025-03-05 00:00:00;Norte;Empresas;356,1;111;9;30;21,5;389;No cumple
+2025-03-06 00:00:00;Norte;Internet Hogar;430,9;19,7;16;22;31,2;497;No cumple
+2025-03-07 00:00:00;Norte;Móvil;449,4;82,8;13;44;26,2;44;Cumple
+2025-03-08 00:00:00;Sur;Internet Hogar;68,8;48,8;16;25;18,3;212;Cumple
+2025-03-09 00:00:00;Centro;Empresas;265,2;62,3;23;8;1,3;335;No cumple
+2025-03-10 00:00:00;Sur;Internet Hogar;312,3;64,2;21;35;31,4;378;Cumple
+2025-03-11 00:00:00;Norte;Móvil;150;52,1;3;52;44,3;237;No cumple
+2025-03-12 00:00:00;Sur;Internet Hogar;244,3;41,5;11;56;44,4;18;Cumple
+2025-03-13 00:00:00;Norte;Internet Hogar;426,7;79,5;9;19;22,7;155;Cumple
+2025-03-14 00:00:00;Centro;Empresas;490,5;49,9;10;25;35,3;422;No cumple
+2025-03-15 00:00:00;Centro;Empresas;350,9;46,8;18;33;31,9;469;No cumple
+2025-03-16 00:00:00;Centro;Móvil;463,2;32,4;17;19;25,1;384;No cumple
+2025-03-17 00:00:00;Centro;Móvil;115,5;115,9;0;34;4,3;149;No cumple
+2025-03-18 00:00:00;Sur;Internet Hogar;253,1;57,3;2;49;43,5;418;No cumple
+2025-03-19 00:00:00;Sur;Empresas;89,4;55,8;29;19;34;223;Cumple
+2025-03-20 00:00:00;Norte;Internet Hogar;132,3;57,7;6;30;37,2;274;Cumple
+2025-03-21 00:00:00;Sur;Empresas;292,1;78,3;15;35;8,6;328;Cumple
+2025-03-22 00:00:00;Norte;Empresas;355,3;28,9;22;28;12,8;355;No cumple
+2025-03-23 00:00:00;Sur;Móvil;172,2;20,7;17;52;17,2;333;No cumple
+2025-03-24 00:00:00;Norte;Internet Hogar;338,2;100,1;13;26;15,6;107;Cumple
+2025-03-25 00:00:00;Norte;Empresas;445,9;100,9;0;28;1,2;387;Cumple
+2025-03-26 00:00:00;Norte;Internet Hogar;389,1;30,6;0;41;29,2;397;Cumple
+2025-03-27 00:00:00;Norte;Internet Hogar;306,7;90,6;14;15;39,5;434;No cumple
+2025-03-28 00:00:00;Centro;Internet Hogar;367,8;37,8;5;48;5,4;154;Cumple
+2025-03-29 00:00:00;Centro;Empresas;198,9;48,7;6;42;45,9;333;No cumple
+2025-03-30 00:00:00;Sur;Móvil;327,4;117,1;22;12;19,6;347;Cumple
+2025-03-31 00:00:00;Centro;Empresas;361,6;91,3;7;15;27,8;421;No cumple
+2025-04-01 00:00:00;Sur;Móvil;70,4;109,7;9;19;28,5;108;Cumple
+2025-04-02 00:00:00;Sur;Internet Hogar;66,5;35,7;4;6;38,2;258;Cumple
+2025-04-03 00:00:00;Sur;Internet Hogar;205;68;29;38;42,7;495;No cumple
+2025-04-04 00:00:00;Norte;Internet Hogar;414,7;31,1;2;58;4,4;359;Cumple
+2025-04-05 00:00:00;Norte;Empresas;241,4;106,7;26;52;40;96;Cumple
+2025-04-06 00:00:00;Sur;Empresas;437,9;15,2;26;56;20;274;Cumple
+2025-04-07 00:00:00;Norte;Internet Hogar;181,9;101,9;20;56;46,2;340;Cumple
+2025-04-08 00:00:00;Centro;Empresas;187,1;88,9;18;33;20,4;175;Cumple
+2025-04-09 00:00:00;Centro;Internet Hogar;447,1;111,4;10;18;34,9;313;No cumple
+2025-04-10 00:00:00;Norte;Internet Hogar;220,6;100,2;29;8;10,9;140;No cumple
+2025-04-11 00:00:00;Sur;Móvil;278,2;29,4;29;28;21,8;201;Cumple
+2025-04-12 00:00:00;Norte;Internet Hogar;408;74,7;8;44;28,9;136;No cumple
+2025-04-13 00:00:00;Norte;Internet Hogar;201,2;92;17;25;11,1;174;Cumple
+2025-04-14 00:00:00;Centro;Internet Hogar;52,2;117,3;10;27;34,3;386;Cumple
+2025-04-15 00:00:00;Norte;Móvil;313,3;80,9;20;40;35,3;480;No cumple
+2025-04-16 00:00:00;Norte;Empresas;207,3;45,2;19;34;14,1;31;No cumple
+2025-04-17 00:00:00;Sur;Internet Hogar;254,3;96,9;24;33;35,2;429;No cumple
+2025-04-18 00:00:00;Sur;Empresas;181,6;11,9;15;45;27,1;89;No cumple
+2025-04-19 00:00:00;Norte;Internet Hogar;345;70,7;1;11;33,1;237;No cumple
+2025-04-20 00:00:00;Sur;Empresas;271,3;78,4;16;17;26,6;148;No cumple
+2025-04-21 00:00:00;Norte;Móvil;417,6;40,3;1;37;1,7;414;Cumple
+2025-04-22 00:00:00;Centro;Empresas;213,6;52,7;23;38;42,9;266;No cumple
+2025-04-23 00:00:00;Norte;Internet Hogar;159,3;106,4;14;56;40,3;19;No cumple
+2025-04-24 00:00:00;Centro;Empresas;289,2;118,5;12;11;13,2;357;Cumple
+2025-04-25 00:00:00;Norte;Empresas;395,5;25,3;18;32;11,3;218;No cumple
+2025-04-26 00:00:00;Centro;Internet Hogar;470,9;113,5;29;15;6,8;172;Cumple
+2025-04-27 00:00:00;Centro;Móvil;168,1;55,7;29;43;38,1;140;No cumple
+2025-04-28 00:00:00;Centro;Internet Hogar;80,8;64,5;21;54;41,2;169;No cumple
+2025-04-29 00:00:00;Sur;Empresas;222,6;89,4;10;14;40,3;287;Cumple
+2025-04-30 00:00:00;Norte;Empresas;384,8;72,2;2;19;29,7;173;No cumple
+2025-05-01 00:00:00;Norte;Empresas;321,5;75,1;14;14;18,2;318;Cumple
+2025-05-02 00:00:00;Sur;Móvil;394,7;64,2;15;5;47,1;269;Cumple
+2025-05-03 00:00:00;Sur;Empresas;281,5;40,6;5;36;32,9;226;No cumple
+2025-05-04 00:00:00;Norte;Internet Hogar;200;47,8;9;57;22,3;91;No cumple
+2025-05-05 00:00:00;Sur;Empresas;329,8;112,5;4;59;31,3;86;No cumple
+2025-05-06 00:00:00;Centro;Internet Hogar;387,6;78,6;2;56;39,9;179;Cumple
+2025-05-07 00:00:00;Norte;Internet Hogar;334,1;101,5;12;35;32;335;Cumple
+2025-05-08 00:00:00;Sur;Móvil;59,7;50,4;7;52;41,5;319;No cumple
+2025-05-09 00:00:00;Sur;Internet Hogar;198,1;113;29;52;7,6;49;Cumple
+2025-05-10 00:00:00;Sur;Empresas;254,8;70,8;9;28;12,2;111;Cumple
+2025-05-11 00:00:00;Norte;Internet Hogar;202,9;40,3;27;8;1,3;171;No cumple
+2025-05-12 00:00:00;Norte;Móvil;119,1;87,4;14;20;47,2;365;Cumple
+2025-05-13 00:00:00;Centro;Internet Hogar;354;37,7;28;5;29;50;No cumple
+2025-05-14 00:00:00;Centro;Móvil;57,1;71,5;15;21;13,1;326;Cumple
+2025-05-15 00:00:00;Sur;Empresas;267,1;65,6;2;39;7,9;133;Cumple
+2025-05-16 00:00:00;Sur;Móvil;63,9;15,9;19;55;39;160;No cumple
+2025-05-17 00:00:00;Centro;Móvil;187,7;96,9;12;24;28;25;Cumple
+2025-05-18 00:00:00;Centro;Móvil;482,8;33,5;1;12;1,2;301;Cumple
+2025-05-19 00:00:00;Norte;Internet Hogar;470,4;16;24;15;8;39;No cumple
+2025-05-20 00:00:00;Sur;Internet Hogar;239,3;41,2;2;12;41,9;106;Cumple
+2025-05-21 00:00:00;Sur;Móvil;104,7;70,5;14;21;27,7;393;No cumple
+2025-05-22 00:00:00;Sur;Móvil;477,1;68,2;28;16;19,4;38;No cumple
+2025-05-23 00:00:00;Norte;Empresas;475,9;78,4;2;47;46,7;305;Cumple
+2025-05-24 00:00:00;Centro;Móvil;215,5;25,7;16;12;34,2;156;Cumple
+2025-05-25 00:00:00;Sur;Internet Hogar;73,9;118,6;13;8;39,5;169;No cumple
+2025-05-26 00:00:00;Norte;Móvil;105,8;82;4;47;31,4;336;No cumple
+2025-05-27 00:00:00;Centro;Internet Hogar;453,8;79,3;13;8;29,9;261;Cumple
+2025-05-28 00:00:00;Norte;Internet Hogar;87,2;22,9;10;51;1,3;376;Cumple
+2025-05-29 00:00:00;Sur;Móvil;241,3;13,9;2;10;35,7;129;No cumple
+2025-05-30 00:00:00;Centro;Empresas;175,9;118,3;25;23;38,8;398;No cumple
+2025-05-31 00:00:00;Sur;Internet Hogar;151,4;31,8;5;11;38,7;266;Cumple
+2025-06-01 00:00:00;Centro;Internet Hogar;91;38,3;23;49;19;455;Cumple
+2025-06-02 00:00:00;Sur;Internet Hogar;50,5;40,5;13;41;40,5;472;No cumple
+2025-06-03 00:00:00;Norte;Internet Hogar;125,4;37,9;18;31;42,8;392;Cumple
+2025-06-04 00:00:00;Norte;Empresas;322,3;87,9;17;10;21,3;287;No cumple
+2025-06-05 00:00:00;Sur;Empresas;198,2;89,9;25;25;16,9;145;Cumple
+2025-06-06 00:00:00;Sur;Empresas;366,4;117,2;14;31;19,4;403;No cumple
+2025-06-07 00:00:00;Norte;Empresas;254,7;19,5;15;20;35,3;428;No cumple
+2025-06-08 00:00:00;Centro;Internet Hogar;372,8;96,8;17;11;10,7;131;No cumple
+2025-06-09 00:00:00;Centro;Internet Hogar;136,4;57,3;25;52;21,3;178;No cumple
+2025-06-10 00:00:00;Norte;Empresas;152,1;43,8;19;46;47,2;343;No cumple
+2025-06-11 00:00:00;Centro;Móvil;474,9;112,1;13;16;5,8;190;No cumple
+2025-06-12 00:00:00;Centro;Empresas;460,2;52,9;8;48;24,8;204;No cumple
+2025-06-13 00:00:00;Centro;Internet Hogar;307,6;26,2;13;59;3,1;215;No cumple
+2025-06-14 00:00:00;Sur;Móvil;490,5;38,9;13;22;24,9;374;Cumple
+2025-06-15 00:00:00;Norte;Empresas;439,7;109,5;7;33;4;102;No cumple
+2025-06-16 00:00:00;Sur;Móvil;444,3;104,6;6;32;3;480;Cumple
+2025-06-17 00:00:00;Sur;Internet Hogar;287,2;81,6;19;42;24,8;442;No cumple
+2025-06-18 00:00:00;Sur;Internet Hogar;102,4;114,5;17;23;43,1;375;Cumple
+2025-06-19 00:00:00;Centro;Internet Hogar;332,6;37,8;21;51;35,8;463;Cumple
+2025-06-20 00:00:00;Centro;Empresas;483,6;82,4;19;54;40,4;452;No cumple
+2025-06-21 00:00:00;Centro;Internet Hogar;248,1;114,5;8;16;2,4;48;No cumple
+2025-06-22 00:00:00;Sur;Internet Hogar;287,7;37;14;14;19,9;10;Cumple
+2025-06-23 00:00:00;Centro;Móvil;96,6;26,2;10;6;39,2;325;No cumple
+2025-06-24 00:00:00;Centro;Empresas;198,9;117,1;23;23;11,3;260;Cumple
+2025-06-25 00:00:00;Centro;Internet Hogar;113,8;117,6;22;37;10,6;326;Cumple
+2025-06-26 00:00:00;Centro;Empresas;457,5;35,6;28;39;34,4;493;No cumple
+2025-06-27 00:00:00;Centro;Móvil;497,9;58,4;10;25;39,9;115;No cumple
+2025-06-28 00:00:00;Centro;Internet Hogar;452,3;77,1;2;55;8,2;219;No cumple
+2025-06-29 00:00:00;Sur;Internet Hogar;363,7;86,1;5;51;43;291;Cumple
+2025-06-30 00:00:00;Centro;Móvil;293,6;89,4;5;32;26;43;Cumple
+2025-07-01 00:00:00;Centro;Internet Hogar;217,4;61,8;3;49;39,1;140;No cumple
+2025-07-02 00:00:00;Norte;Móvil;182;17,1;8;37;26,6;311;Cumple
+2025-07-03 00:00:00;Sur;Empresas;389,5;118,2;16;23;37,5;83;Cumple
+2025-07-04 00:00:00;Centro;Internet Hogar;65,6;79,6;1;26;9,7;488;Cumple
+2025-07-05 00:00:00;Centro;Empresas;446,3;102,5;17;31;8,3;274;No cumple
+2025-07-06 00:00:00;Centro;Empresas;220,8;38,2;3;21;43;344;Cumple
+2025-07-07 00:00:00;Centro;Móvil;184,9;66,7;24;16;6,3;478;No cumple
+2025-07-08 00:00:00;Centro;Empresas;396,8;108,2;10;29;18,9;251;Cumple
+2025-07-09 00:00:00;Norte;Internet Hogar;257,7;21;22;57;24,2;482;Cumple
+2025-07-10 00:00:00;Sur;Móvil;463,1;27,8;4;48;21,7;169;No cumple
+2025-07-11 00:00:00;Sur;Empresas;287,9;36;2;41;47;305;No cumple
+2025-07-12 00:00:00;Sur;Móvil;448,4;11,2;23;57;26;404;No cumple
+2025-07-13 00:00:00;Norte;Internet Hogar;282,9;19,9;11;9;45;447;Cumple
+2025-07-14 00:00:00;Norte;Móvil;483,5;83,5;19;31;9,2;282;Cumple
+2025-07-15 00:00:00;Centro;Móvil;165,8;117,1;6;11;29;454;Cumple
+2025-07-16 00:00:00;Centro;Internet Hogar;172,6;89,8;11;34;40,5;365;No cumple
+2025-07-17 00:00:00;Centro;Empresas;496,9;103,8;20;25;6,9;281;Cumple
+2025-07-18 00:00:00;Norte;Empresas;428,7;11,3;5;13;18,8;43;Cumple
+2025-07-19 00:00:00;Norte;Móvil;121,8;93,4;22;45;35,1;114;No cumple
+2025-07-20 00:00:00;Centro;Internet Hogar;381,8;95,8;3;27;5,6;23;No cumple
+2025-07-21 00:00:00;Centro;Internet Hogar;238,2;21,6;6;46;19,9;430;No cumple
+2025-07-22 00:00:00;Centro;Internet Hogar;104,7;57,1;21;55;18,5;197;No cumple
+2025-07-23 00:00:00;Norte;Móvil;381,9;43,7;3;19;39,1;97;Cumple
+2025-07-24 00:00:00;Sur;Internet Hogar;496,1;91,7;25;25;23,2;27;No cumple
+2025-07-25 00:00:00;Centro;Empresas;430;26,6;10;7;44,9;295;Cumple
+2025-07-26 00:00:00;Norte;Móvil;387,3;39,7;5;59;26,7;13;Cumple
+2025-07-27 00:00:00;Norte;Móvil;232,9;66,1;21;14;8,6;334;No cumple
+2025-07-28 00:00:00;Norte;Internet Hogar;81,2;118,5;19;42;20,3;273;No cumple
+2025-07-29 00:00:00;Sur;Empresas;134,4;53,1;28;10;37,6;141;Cumple
+2025-07-30 00:00:00;Centro;Internet Hogar;398,9;31,4;1;46;9;213;No cumple
+2025-07-31 00:00:00;Norte;Móvil;304,4;100,2;14;14;23;326;Cumple
+2025-08-01 00:00:00;Norte;Empresas;449,2;44,9;17;38;2,9;53;No cumple
+2025-08-02 00:00:00;Sur;Empresas;487,6;68,6;0;34;44;346;Cumple
+2025-08-03 00:00:00;Sur;Internet Hogar;463,3;69,9;13;48;3,2;376;Cumple
+2025-08-04 00:00:00;Centro;Empresas;360,7;73,6;1;21;33,8;82;No cumple
+2025-08-05 00:00:00;Sur;Empresas;141,4;74,4;12;26;25,4;205;Cumple
+2025-08-06 00:00:00;Centro;Empresas;391,1;34,7;27;43;41,7;447;Cumple
+2025-08-07 00:00:00;Norte;Móvil;254,1;22,7;21;44;7,8;147;No cumple
+2025-08-08 00:00:00;Sur;Internet Hogar;398,7;47;25;37;19,3;416;Cumple
+2025-08-09 00:00:00;Sur;Móvil;262,9;117,2;16;18;28,3;319;Cumple
+2025-08-10 00:00:00;Norte;Móvil;289;86,6;17;26;30,8;368;No cumple
+2025-08-11 00:00:00;Centro;Empresas;328,1;44;5;38;12,4;15;Cumple
+2025-08-12 00:00:00;Centro;Móvil;168,8;32,3;18;49;46,1;451;Cumple
+2025-08-13 00:00:00;Norte;Internet Hogar;448,1;11,4;17;38;18,8;265;No cumple
+2025-08-14 00:00:00;Centro;Internet Hogar;459,3;23,1;13;23;38,3;250;No cumple
+2025-08-15 00:00:00;Norte;Móvil;308,2;82,5;7;41;32,5;491;No cumple
+2025-08-16 00:00:00;Norte;Empresas;302,9;70,4;16;18;22,4;419;Cumple
+2025-08-17 00:00:00;Centro;Móvil;319,8;114,7;1;59;20,1;332;Cumple
+2025-08-18 00:00:00;Sur;Móvil;383,3;60,4;23;12;26,5;497;Cumple
+2025-08-19 00:00:00;Norte;Empresas;212;106,3;14;8;21,2;275;No cumple
+2025-08-20 00:00:00;Sur;Móvil;113,4;75,3;1;26;2,2;336;Cumple
+2025-08-21 00:00:00;Centro;Internet Hogar;97,3;14,5;19;56;25,1;335;No cumple
+2025-08-22 00:00:00;Sur;Internet Hogar;354,8;17,6;24;52;44,9;15;Cumple
+2025-08-23 00:00:00;Centro;Empresas;246,7;33,6;4;42;23,5;312;Cumple
+2025-08-24 00:00:00;Norte;Internet Hogar;331,5;108,5;12;7;5,9;189;No cumple
+2025-08-25 00:00:00;Norte;Internet Hogar;404,5;65,3;2;25;10;451;No cumple
+2025-08-26 00:00:00;Sur;Móvil;344,8;20,1;1;46;11,9;61;No cumple
+2025-08-27 00:00:00;Sur;Internet Hogar;151,4;37,2;29;40;25,6;316;No cumple
+2025-08-28 00:00:00;Sur;Móvil;440,8;26,4;21;49;40,9;360;No cumple
+2025-08-29 00:00:00;Norte;Internet Hogar;455,7;72,4;9;13;6,4;111;Cumple
+2025-08-30 00:00:00;Centro;Internet Hogar;141,5;104,2;1;30;39,6;322;No cumple
+2025-08-31 00:00:00;Sur;Empresas;156,1;43,1;7;42;30,9;356;Cumple
+2025-09-01 00:00:00;Sur;Empresas;156,8;91,8;4;39;33,4;463;No cumple
+2025-09-02 00:00:00;Sur;Internet Hogar;268;44,2;20;36;4,3;72;Cumple
+2025-09-03 00:00:00;Sur;Móvil;485,8;88,3;16;17;32,4;81;No cumple
+2025-09-04 00:00:00;Sur;Empresas;324,6;119,9;22;34;19,3;386;No cumple
+2025-09-05 00:00:00;Sur;Empresas;180,8;47,5;25;53;32,2;427;No cumple
+2025-09-06 00:00:00;Norte;Internet Hogar;415,3;17,7;16;20;2;473;No cumple
+2025-09-07 00:00:00;Centro;Móvil;401,7;28,1;0;51;18,5;249;No cumple
+2025-09-08 00:00:00;Norte;Internet Hogar;229,7;19;27;26;10,1;216;No cumple
+2025-09-09 00:00:00;Centro;Móvil;214,5;78;4;57;37,5;20;Cumple
+2025-09-10 00:00:00;Centro;Empresas;320,1;114,1;26;5;46,5;329;Cumple
+2025-09-11 00:00:00;Sur;Móvil;416,1;34,2;18;10;47,1;376;No cumple
+2025-09-12 00:00:00;Sur;Móvil;353,7;13,9;7;42;30,4;103;Cumple
+2025-09-13 00:00:00;Sur;Empresas;90,6;48,9;17;42;10,1;158;Cumple
+2025-09-14 00:00:00;Sur;Móvil;75,1;52,5;25;9;28,9;349;No cumple
+2025-09-15 00:00:00;Centro;Internet Hogar;402,7;23;10;36;7,2;499;Cumple
+2025-09-16 00:00:00;Norte;Internet Hogar;185,2;75;18;32;34,2;464;No cumple
